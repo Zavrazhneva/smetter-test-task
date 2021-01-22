@@ -1,0 +1,22 @@
+.form {
+    width: 100%;
+    margin-bottom: 30px;
+}
+label, input {
+    margin-right: 10px;
+}
+.button {
+    margin-left: 20px;
+}
+.delete {
+    width: 20px;
+    height: 30px;
+    background-image: url("../assets/delete.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: 0.5;
+    cursor: pointer;
+}
